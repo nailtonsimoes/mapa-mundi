@@ -8,6 +8,7 @@ public class MapaMundiApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MapaMundiApplication.class, args);
+		System.out.println("Bem vindo!");
 	}
 
 }
